@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Dan Flynn | Data Science
 locale: en_US
-description: Describe your website here.
+description: Insights for environment, energy, sustainability, and transportation
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -29,6 +29,10 @@ kramdown:
   enable_coderay: false
 
 mathjax: true
+
+# Google Analytics
+google_analytics: UA—1273246-9
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
