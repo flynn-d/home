@@ -1,33 +1,33 @@
 ---
 layout: post
 title: Sample Post
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2016-06-01T14:17:25-04:00
+excerpt: "Test post excerpt"
+modified: 2018-01-01
 categories: articles
 tags: [sample-post]
 image:
   feature: so-simple-sample-image-1.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-comments: true
+comments: false
 share: true
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+## Current Projects
 
-# Heading 1
+### Project 1
 
-## Heading 2
+### Project 2
 
-### Heading 3
+### Project 3
 
-#### Heading 4
+## Selected Past Projects
 
-##### Heading 5
+### Project 4
 
-###### Heading 6
+### Project 5
 
-### Body text
+### Project 6
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 

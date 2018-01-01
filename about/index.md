@@ -1,26 +1,28 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: Dan Flynn
+excerpt: "A data scientist for environmental and transportation research."
+modified: 
 image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Biologist and data scientist with 15 years of experience in research on land use, climate, and biodiversity change. Strong interest in environmental consequences of transportation infrastructure, planning, and policy, in particular the global climate change consequences of modes and patterns of transportation. Deep knowledge of statistical tools for analyzing complex data sets. Strong communication skills, with extensive peer-reviewed publications and experience lecturing on sustainable energy and environmental science. 
 
-## So Simple Theme is all about:
+### Tools I use:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+* Extensive knowledge of R, in mixed-effect models, time-series analysis, multivariate analyses (ordination, classification, and clustering), structural equation modeling, for analysis of experimental and observational data. Experience in ArcGIS, GRASS, spatial data analysis in R.
+* Proficient in use of simulation analyses for comparing models of different processes, as well as likelihood and null model approaches. Experience in the Bayesian data analysis language Stan.
+* Experience with SPSS, SAS/JMP, Stata; use of Python and Basic for data processing. 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+### Things I've written:
 
-[^1]: Example: *domain.com/category-name/post-title*
+* Author or co-author on over 30 peer-reviewed publications. Associate Editor for Journal of Ecology and Journal of Plant Ecology, and reviewer for over 20 journals, including Biogeosciences, Global Ecology and Biogeography, Nature Communications, Ecology Letters, Food Policy, and Proceedings of the National Academy of Sciences. 
+* Extensive experience synthesizing information about highly technical topics for the general audience, particularly in the fields of ecology, environmental sciences, and global change science. 
+* Knowledgeable on topics related to climate, land use change, and agricultural science.
+
+<center>
+<a href="https://scholar.google.com/citations?user=otWCBH8AAAAJ&hl=en" class="btn">Google Scholar Profile</a>
+</center>
