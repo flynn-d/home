@@ -3,7 +3,7 @@
   
     {
       "title"			: "Sample Post",
-      "link"			: "http://localhost:4000/articles/sample-post/",
+      "link"			: "flynnd.io/articles/sample-post/",
       "excerpt"		: "Test post excerpt"
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "A Post with Images",
-      "link"			: "http://localhost:4000/articles/sample-post-images/",
+      "link"			: "flynnd.io/articles/sample-post-images/",
       "excerpt"		: "Examples and code for displaying images in posts."
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "Testing Readability with a Bunch of Text",
-      "link"			: "http://localhost:4000/articles/readability-post/",
+      "link"			: "flynnd.io/articles/readability-post/",
       "excerpt"		: "A ton of text to test readability."
     }
   
@@ -27,7 +27,7 @@
   
     ,{
       "title"			: "Syntax Highlighting Post",
-      "link"			: "http://localhost:4000/articles/code-highlighting-post/",
+      "link"			: "flynnd.io/articles/code-highlighting-post/",
       "excerpt"		: "Demo post displaying the various ways of highlighting code in Markdown."
     }
   
@@ -45,19 +45,9 @@
   
 
   
-
-  
-    ,{
-      "title"			: "Theme Setup",
-      "link"			: "http://localhost:4000/theme-setup/",
-      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
-    }
-  
-
-  
     ,{
       "title"			: "Dan Flynn",
-      "link"			: "http://localhost:4000/about/",
+      "link"			: "flynnd.io/about/",
       "excerpt"		: "A data scientist for environmental and transportation research."
     }
   
