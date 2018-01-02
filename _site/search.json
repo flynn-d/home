@@ -2,24 +2,24 @@
 
   
     {
-      "title"			: "Sample Post",
-      "link"			: "flynnd.io/articles/sample-post/",
-      "excerpt"		: "Test post excerpt"
-    }
-  
-
-  
-    ,{
       "title"			: "A Post with Images",
-      "link"			: "flynnd.io/articles/sample-post-images/",
+      "link"			: "http://flynnd.io/articles/sample-post-images/",
       "excerpt"		: "Examples and code for displaying images in posts."
     }
   
 
   
     ,{
+      "title"			: "Sample Post",
+      "link"			: "http://flynnd.io/articles/sample-post/",
+      "excerpt"		: "Test post excerpt"
+    }
+  
+
+  
+    ,{
       "title"			: "Testing Readability with a Bunch of Text",
-      "link"			: "flynnd.io/articles/readability-post/",
+      "link"			: "http://flynnd.io/articles/readability-post/",
       "excerpt"		: "A ton of text to test readability."
     }
   
@@ -27,7 +27,7 @@
   
     ,{
       "title"			: "Syntax Highlighting Post",
-      "link"			: "flynnd.io/articles/code-highlighting-post/",
+      "link"			: "http://flynnd.io/articles/code-highlighting-post/",
       "excerpt"		: "Demo post displaying the various ways of highlighting code in Markdown."
     }
   
@@ -41,17 +41,11 @@
   
 
   
-
-  
-
-  
     ,{
       "title"			: "Dan Flynn",
-      "link"			: "flynnd.io/about/",
+      "link"			: "http://flynnd.io/about/",
       "excerpt"		: "A data scientist for environmental and transportation research."
     }
-  
-
   
 
   
