@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Dan Flynn
+title: About me
 excerpt: "A data scientist for environmental and transportation research."
 modified: 
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: katahdinbar.jpg
+  credit: #
+  creditlink: #
 ---
 
 Biologist and data scientist with 15 years of experience in research on land use, climate, and biodiversity change. Strong interest in environmental consequences of transportation infrastructure, planning, and policy, in particular the global climate change consequences of modes and patterns of transportation. Deep knowledge of statistical tools for analyzing complex data sets. Strong communication skills, with extensive peer-reviewed publications and experience lecturing on sustainable energy and environmental science. 

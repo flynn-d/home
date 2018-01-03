@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-03T07:23:34-05:00</updated><id>http://localhost:4000/</id><title>Dan Flynn | Data Science</title><subtitle>Energy, Environment, and Sustainability Science for Transportation, Land Use Planning, and Conservation</subtitle><entry><title>New start</title><link href="http://localhost:4000/articles/New-start/" rel="alternate" type="text/html" title="New start" /><published>2018-01-01T00:00:00-05:00</published><updated>2018-01-01T00:00:00-05:00</updated><id>http://localhost:4000/articles/New-start</id><content type="html" xml:base="http://localhost:4000/articles/New-start/">&lt;p&gt;I will start this off with projects I’m currently working on … stay tuned.&lt;/p&gt;
+
+&lt;!--
+## Current Projects
+
+### Project 1
+
+### Project 2
+
+### Project 3
+
+## Selected Past Projects
+
+### Project 4
+
+### Project 5
+
+### Project 6
+--&gt;
+
+&lt;p class=&quot;pull-right&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/potrero.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- 
+*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times &lt;cite&gt;(That’s a citation)&lt;/cite&gt;. &lt;u&gt;Underline&lt;/u&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+
+HTML and &lt;abbr title=&quot;cascading stylesheets&quot;&gt;CSS&lt;abbr&gt; are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+
+### Blockquotes
+
+&gt; Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+
+## List Types
+
+### Ordered Lists
+
+1. Item one
+   1. sub item one
+   2. sub item two
+   3. sub item three
+2. Item two
+
+### Unordered Lists
+
+* Item one
+* Item two
+* Item three
+
+## Tables
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3   |
+{: .table}
+
+## Code Snippets
+
+Syntax highlighting via Rouge
+
+```css
+#container {
+  float: left;
+  margin: 0 -240px 0 0;
+  width: 100%;
+}
+```
+
+Non Rouge code example
+
+    &lt;div id=&quot;awesome&quot;&gt;
+        &lt;p&gt;This is great isn't it?&lt;/p&gt;
+    &lt;/div&gt;
+
+## Buttons
+
+Make any link standout more when applying the `.btn` class.
+
+&lt;div markdown=&quot;0&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;This is a button&lt;/a&gt;&lt;/div&gt;
+--&gt;</content><category term="start" /><summary>Starting this off</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;katahdinbar.jpg&quot;, &quot;credit&quot;=&gt;nil, &quot;creditlink&quot;=&gt;nil}" /></entry></feed>

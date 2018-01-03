@@ -5,7 +5,7 @@ date:
 modified:
 excerpt:
 image:
-  feature:
+  feature: katahdinbar.jpg
 search_omit: true
 sitemap: false
 ---

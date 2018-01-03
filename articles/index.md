@@ -2,6 +2,8 @@
 layout: page
 title: Work
 excerpt: "Projects"
+image:
+  feature: katahdinbar.jpg
 search_omit: true
 ---
 
