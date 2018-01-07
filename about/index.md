@@ -23,6 +23,10 @@ Biologist and data scientist with 15 years of experience in research on land use
 * Extensive experience synthesizing information about highly technical topics for the general audience, particularly in the fields of ecology, environmental sciences, and global change science. 
 * Knowledgeable on topics related to climate, land use change, and agricultural science.
 
+### Contact
+
+[dan@flynnd.io](mailto:dan@flynnd.io)
+
 <center>
 <a href="https://scholar.google.com/citations?user=otWCBH8AAAAJ&hl=en" class="btn">Google Scholar Profile</a>
 </center>
