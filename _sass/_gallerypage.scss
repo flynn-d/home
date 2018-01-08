@@ -104,7 +104,7 @@ span + .entry-title {
 /* page/post wrapper */
 
 .entry-wrapper {
-	/*@include outer-container(1000px); comment out to remove left sidebar */
+	@include outer-container; /*comment out to remove left sidebar */
 	margin-top: 0;
 	margin-bottom: 3em;
 	padding-right: $gutter;
@@ -233,10 +233,10 @@ span + .entry-title {
 /* adjust width for lack of meta/author column */
 
 #home,
-#page {
+#gallerypage {
 
 	.entry-wrapper {
-		max-width: em(960);
+		max-width: 1050px;
 	}
 
 	.entry-title {
@@ -245,7 +245,8 @@ span + .entry-title {
 	}
 
 	.entry-content {
-		@include span-columns(12);
+		@include span-columns(12); 
+		
 	}
 }
 
