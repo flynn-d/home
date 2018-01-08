@@ -9,4 +9,4 @@ image:
   creditlink: #
 ---
 
-Energy, Environment, and Sustainability Science for Transportation, Land Use Planning, and Conservation.
+Data Science for Sustainability, Energy, Transportation, Land Use Planning, and Conservation.
