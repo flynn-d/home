@@ -20,7 +20,7 @@ Data wrangling, visualization, and statistical modeling is my everyday work.  Th
 - git + GitHub
 
 ##### Proficiency for specific jobs
-Some projects require spatial modeling, latent variable modeling, hierarchical Bayesian approaches. Visualization tools needed may be Tableau, Plot.ly, of simply nicely-formatted graphics in a publishable PDF. There's a large number of tools I use for these types of tasks, including:
+Some projects require spatial modeling, latent variable modeling, hierarchical Bayesian approaches. Visualization tools needed may be interactive, web-hosted, or simply nicely-formatted graphics in a publishable PDF. There's a large number of tools I use for these types of tasks, including:
 - ArcGIS, spatial data analysis packages in R
 - Stan
 - Tableau, Plot.ly, Shiny
