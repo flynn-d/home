@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-08T07:32:25-05:00</updated><id>http://localhost:4000/</id><title>Dan Flynn | Data Science</title><subtitle>Energy, Environment, and Sustainability Science for Transportation, Land Use Planning, and Conservation</subtitle><entry><title>CCA Compare</title><link href="http://localhost:4000/articles/CCA_Compare/" rel="alternate" type="text/html" title="CCA Compare" /><published>2018-01-06T00:00:00-05:00</published><updated>2018-01-06T00:00:00-05:00</updated><id>http://localhost:4000/articles/CCA_Compare</id><content type="html" xml:base="http://localhost:4000/articles/CCA_Compare/">&lt;p&gt;This demonstrates an embedded version of the Community Choice Aggregation price comparison tool. Drag the slider to your typical monthly usage, in kWh, to see what your expected cost would be of opting up to 100% renewable electricity in Somerville, MA.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-09T08:16:46-05:00</updated><id>http://localhost:4000/</id><title>Dan Flynn | Data Science</title><subtitle>Energy, Environment, and Sustainability Science for Transportation, Land Use Planning, and Conservation</subtitle><entry><title>CCA Compare</title><link href="http://localhost:4000/articles/CCA_Compare/" rel="alternate" type="text/html" title="CCA Compare" /><published>2018-01-06T00:00:00-05:00</published><updated>2018-01-06T00:00:00-05:00</updated><id>http://localhost:4000/articles/CCA_Compare</id><content type="html" xml:base="http://localhost:4000/articles/CCA_Compare/">&lt;p&gt;This demonstrates an embedded version of the Community Choice Aggregation price comparison tool. Drag the slider to your typical monthly usage, in kWh, to see what your expected cost would be of opting up to 100% renewable electricity in Somerville, MA.&lt;/p&gt;
 
 &lt;div class=&quot;container&quot;&gt;
-&lt;iframe style=&quot;position:relative;top:0px;width:100%;height:120vh;&quot; src=&quot;http://54.163.27.74:3838/cca_compare/&quot;&gt;&lt;/iframe&gt;
+&lt;iframe style=&quot;position:relative;top:0px;width:100%;height:120vh;&quot; src=&quot;http://54.163.27.74/shiny/cca_compare/&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;The tool can be embedded in any website with the following code (with CSS styling as necessary):&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div&amp;gt;
  &amp;lt;iframe 
-   src=&quot;http://54.163.27.74:3838/cca_compare/&quot;&amp;gt;
+   src=&quot;http://54.163.27.74/shiny/cca_compare/&quot;&amp;gt;
  &amp;lt;/iframe&amp;gt;
 &amp;lt;/div&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
