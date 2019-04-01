@@ -2,26 +2,26 @@
 title: "My own Shiny server!" 
 excerpt: Getting started with Shiny server
 image:
-credit: null
-creditlink: null
-feature: katahdinbar.jpg
+  credit: null
+  creditlink: null
+  feature: katahdinbar.jpg
 layout: gallerypage
 modified: null
 share: yes
 comments: yes
 tags:
-- AWS
-- Shiny
+  - AWS
+  - Shiny
 categories: articles
 ---
 
 I now have my Shiny server linked with this site, see here:
 
-### [shiny.flynnd.io/dan/cca_compare/](shiny.flynnd.io/dan/cca_compare/)
+### [shiny.flynnd.io/dan/cca_compare/](http://shiny.flynnd.io/dan/cca_compare/)
 
 And also have started a visualizer of bike count data here:
 
-### [shiny.flynnd.io/dan/cca_compare/](shiny.flynnd.io/dan/BikeCount/)
+### [shiny.flynnd.io/dan/cca_compare/](http://shiny.flynnd.io/dan/BikeCount/)
 (code [here](https://github.com/flynn-d/bikecount), obviously a work in progress)
 
 The goal of this is to do the following:
