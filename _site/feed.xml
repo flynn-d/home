@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-31T22:25:31-04:00</updated><id>http://localhost:4000/</id><title>Dan Flynn | Data Science</title><subtitle>Energy, Environment, and Sustainability Science for Transportation, Land Use Planning, and Conservation</subtitle><entry><title>My own Shiny server!</title><link href="http://localhost:4000/articles/Getting_Shiny/" rel="alternate" type="text/html" title="My own Shiny server!" /><published>2019-03-31T00:00:00-04:00</published><updated>2019-03-31T00:00:00-04:00</updated><id>http://localhost:4000/articles/Getting_Shiny</id><content type="html" xml:base="http://localhost:4000/articles/Getting_Shiny/">&lt;p&gt;I now have my Shiny server linked with this site, see here:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-01T07:35:43-04:00</updated><id>http://localhost:4000/</id><title>Dan Flynn | Data Science</title><subtitle>Energy, Environment, and Sustainability Science for Transportation, Land Use Planning, and Conservation</subtitle><entry><title>My own Shiny server!</title><link href="http://localhost:4000/articles/Getting_Shiny/" rel="alternate" type="text/html" title="My own Shiny server!" /><published>2019-03-31T00:00:00-04:00</published><updated>2019-03-31T00:00:00-04:00</updated><id>http://localhost:4000/articles/Getting_Shiny</id><content type="html" xml:base="http://localhost:4000/articles/Getting_Shiny/">&lt;p&gt;I now have my Shiny server linked with this site, see here:&lt;/p&gt;
 
-&lt;h3 id=&quot;shinyflynndiodancca_compare&quot;&gt;&lt;a href=&quot;shiny.flynnd.io/dan/cca_compare/&quot;&gt;shiny.flynnd.io/dan/cca_compare/&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;shinyflynndiodancca_compare&quot;&gt;&lt;a href=&quot;http://shiny.flynnd.io/dan/cca_compare/&quot;&gt;shiny.flynnd.io/dan/cca_compare/&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;And also have started a visualizer of bike count data here:&lt;/p&gt;
 
-&lt;h3 id=&quot;shinyflynndiodancca_compare-1&quot;&gt;&lt;a href=&quot;shiny.flynnd.io/dan/BikeCount/&quot;&gt;shiny.flynnd.io/dan/cca_compare/&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;shinyflynndiodancca_compare-1&quot;&gt;&lt;a href=&quot;http://shiny.flynnd.io/dan/BikeCount/&quot;&gt;shiny.flynnd.io/dan/cca_compare/&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;(code &lt;a href=&quot;https://github.com/flynn-d/bikecount&quot;&gt;here&lt;/a&gt;, obviously a work in progress)&lt;/p&gt;
 
 &lt;p&gt;The goal of this is to do the following:&lt;/p&gt;
@@ -26,7 +26,7 @@
   &lt;li&gt;GitHub pages (this site)&lt;/li&gt;
   &lt;li&gt;Setting DNS records correctly with my domain name provider&lt;/li&gt;
   &lt;li&gt;Lots of Stack Overflow to get nginx, proxy stuff, ssh keys, and permissions all set up right&lt;/li&gt;
-&lt;/ul&gt;</content><category term="AWS" /><category term="Shiny" /><summary>Getting started with Shiny server</summary></entry><entry><title>CCA Compare</title><link href="http://localhost:4000/articles/CCA_Compare/" rel="alternate" type="text/html" title="CCA Compare" /><published>2018-01-06T00:00:00-05:00</published><updated>2018-01-06T00:00:00-05:00</updated><id>http://localhost:4000/articles/CCA_Compare</id><content type="html" xml:base="http://localhost:4000/articles/CCA_Compare/">&lt;p&gt;This demonstrates an embedded version of the Community Choice Aggregation price comparison tool. Drag the slider to your typical monthly usage, in kWh, to see what your expected cost would be of opting up to 100% renewable electricity in Somerville, MA.&lt;/p&gt;
+&lt;/ul&gt;</content><category term="AWS" /><category term="Shiny" /><summary>Getting started with Shiny server</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;credit&quot;=&gt;nil, &quot;creditlink&quot;=&gt;nil, &quot;feature&quot;=&gt;&quot;katahdinbar.jpg&quot;}" /></entry><entry><title>CCA Compare</title><link href="http://localhost:4000/articles/CCA_Compare/" rel="alternate" type="text/html" title="CCA Compare" /><published>2018-01-06T00:00:00-05:00</published><updated>2018-01-06T00:00:00-05:00</updated><id>http://localhost:4000/articles/CCA_Compare</id><content type="html" xml:base="http://localhost:4000/articles/CCA_Compare/">&lt;p&gt;This demonstrates an embedded version of the Community Choice Aggregation price comparison tool. Drag the slider to your typical monthly usage, in kWh, to see what your expected cost would be of opting up to 100% renewable electricity in Somerville, MA.&lt;/p&gt;
 
 &lt;div class=&quot;container&quot;&gt;
 &lt;iframe style=&quot;position:relative;top:0px;width:100%;height:120vh;&quot; src=&quot;http://54.163.27.74/shiny/cca_compare/&quot;&gt;&lt;/iframe&gt;
@@ -34,13 +34,12 @@
 
 &lt;p&gt;The tool can be embedded in any website with the following code (with CSS styling as necessary):&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div&amp;gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div&amp;gt;
  &amp;lt;iframe 
    src=&quot;shiny.flynnd.io/dan/cca_compare&quot;&amp;gt;
  &amp;lt;/iframe&amp;gt;
 &amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Tool source code is &lt;a href=&quot;https://github.com/flynn-d/cca_compare&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><category term="AWS" /><category term="Shiny" /><summary>Demonstrating CCA Comparison tool from AWS</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;credit&quot;=&gt;nil, &quot;creditlink&quot;=&gt;nil, &quot;feature&quot;=&gt;&quot;katahdinbar.jpg&quot;}" /></entry><entry><title>Kickoff</title><link href="http://localhost:4000/articles/New-start/" rel="alternate" type="text/html" title="Kickoff" /><published>2018-01-01T00:00:00-05:00</published><updated>2018-01-01T00:00:00-05:00</updated><id>http://localhost:4000/articles/New-start</id><content type="html" xml:base="http://localhost:4000/articles/New-start/">&lt;p&gt;… Started this in 2018, then went on vacation to this place ..&lt;/p&gt;
 
