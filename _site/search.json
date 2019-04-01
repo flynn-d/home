@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "My own Shiny server!",
+      "link"			: "http://localhost:4000/articles/Getting_Shiny/",
+      "excerpt"		: "Getting started with Shiny server"
+    }
+  
+
+  
+    ,{
       "title"			: "CCA Compare",
       "link"			: "http://localhost:4000/articles/CCA_Compare/",
       "excerpt"		: "Demonstrating CCA Comparison tool from AWS"

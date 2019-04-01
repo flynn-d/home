@@ -22,14 +22,15 @@ Data wrangling, visualization, and statistical modeling is my everyday work.  Th
 ##### Proficiency for specific jobs
 Some projects require spatial modeling, latent variable modeling, hierarchical Bayesian approaches. Visualization tools needed may be interactive, web-hosted, or simply nicely-formatted graphics in a publishable PDF. There's a large number of tools I use for these types of tasks, including:
 - ArcGIS, spatial data analysis packages in R
-- Stan
-- Tableau, Plot.ly, Shiny
+- Stan for Bayesian modeling
+- Tableau, Plot.ly, Shiny for visualziation
 - JavaScript, CSS, HTML, server management 
 - LaTeX, bibtex
 
+
 ##### Learning more as needed
-I am learning enough Python to supplement what I do in R, although nearly everything I need to do I can still accomplish in R. As tasks arise with needs beyond R, I'm learning:
-- Python + Rodeo (amazing RStudio-like interface)
+I am working Python more and more to supplement what I do in R. For a long time, everything I needed to do I could accomplish in R, but am coming around to the need for Python for a broader range of tasks beyond statistical modeling and visualiation. As tasks arise with needs beyond R, I'm learning:
+- Python - especially pandas and geopandas
 - Shell scripts
 - Amazon Web Services for cloud computing 
 
@@ -37,7 +38,7 @@ I am learning enough Python to supplement what I do in R, although nearly everyt
 
 * Author or co-author on over 30 peer-reviewed publications. Associate Editor for Journal of Ecology and Journal of Plant Ecology, and reviewer for over 20 journals, including Biogeosciences, Global Ecology and Biogeography, Nature Communications, Ecology Letters, Food Policy, and Proceedings of the National Academy of Sciences. 
 * Extensive experience synthesizing information about highly technical topics for the general audience, particularly in the fields of ecology, environmental sciences, and global change science. 
-* Knowledgeable on topics related to climate, land use change, energy, and sustainability.
+* Knowledgeable on topics related to climate, transportation, land use change, energy, and sustainability.
 
 ## Contact
 

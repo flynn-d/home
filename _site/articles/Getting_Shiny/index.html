@@ -5,33 +5,33 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Dan Flynn | Data Science &#8211; Dan Flynn | Data Science</title>
-<meta name="description" content="A data scientist for environmental and transportation research.">
-
+<title>My own Shiny server! &#8211; Dan Flynn | Data Science</title>
+<meta name="description" content="Getting started with Shiny server">
+<meta name="keywords" content="AWS, Shiny">
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Dan Flynn | Data Science">
-<meta name="twitter:description" content="A data scientist for environmental and transportation research.">
+<meta name="twitter:title" content="My own Shiny server!">
+<meta name="twitter:description" content="Getting started with Shiny server">
 
 
 
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://localhost:4000/images/katahdinbar.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://localhost:4000/images/df-logo2.png">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Dan Flynn | Data Science">
-<meta property="og:description" content="A data scientist for environmental and transportation research.">
-<meta property="og:url" content="http://localhost:4000/">
+<meta property="og:title" content="My own Shiny server!">
+<meta property="og:description" content="Getting started with Shiny server">
+<meta property="og:url" content="http://localhost:4000/articles/Getting_Shiny/">
 <meta property="og:site_name" content="Dan Flynn | Data Science">
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/">
+<link rel="canonical" href="http://localhost:4000/articles/Getting_Shiny/">
 <link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Dan Flynn | Data Science Feed">
 
 <!-- https://t.co/dKP3o1e -->
@@ -75,7 +75,7 @@
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144-precomposed.png">
 </head>
 
-<body id="page">
+<body id="gallerypage">
 
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
@@ -97,26 +97,56 @@
 <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
 
 <header class="masthead">
-	
-		<div class="wrap">
-			<a href="http://localhost:4000/" class="site-logo" rel="home" title="Dan Flynn | Data Science"><img src="http://localhost:4000/images/df-logo2.png" width="200" height="200" alt="Dan Flynn | Data Science logo" class="animated fadeInDown"></a>
-		</div>
-	
+	<div class="wrap">
+      
+  		<a href="http://localhost:4000/" class="site-logo" rel="home" title="Dan Flynn | Data Science"><img src="http://localhost:4000/images/df-logo2.png" width="200" height="200" alt="Dan Flynn | Data Science logo" class="animated fadeInDown"></a>
+      
+      <h1 class="site-title animated fadeIn"><a href="http://localhost:4000/">Dan Flynn | Data Science</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">Energy, Environment, and Sustainability Science for Transportation, Land Use Planning, and Conservation</h2>
+	</div>
 </header><!-- /.masthead -->
-
 
 <div class="js-menu-screen menu-screen"></div>
 
 
 <div id="main" role="main">
   <article class="entry">
-    <img src="http://localhost:4000/images/katahdinbar.jpg" class="entry-feature-image" alt="Dan Flynn | Data Science" >
+    
     <div class="entry-wrapper">
       <header class="entry-header">
-        <h1 class="entry-title">Dan Flynn | Data Science</h1>
+        <h1 class="entry-title"></h1>
       </header>
       <div class="entry-content">
-        <p>Data Science for Sustainability, Energy, Transportation, Land Use Planning, and Conservation.</p>
+        <p>I now have my Shiny server linked with this site, see here:</p>
+
+<h3 id="shinyflynndiodancca_compare"><a href="shiny.flynnd.io/dan/cca_compare/">shiny.flynnd.io/dan/cca_compare/</a></h3>
+
+<p>And also have started a visualizer of bike count data here:</p>
+
+<h3 id="shinyflynndiodancca_compare-1"><a href="shiny.flynnd.io/dan/BikeCount/">shiny.flynnd.io/dan/cca_compare/</a></h3>
+<p>(code <a href="https://github.com/flynn-d/bikecount">here</a>, obviously a work in progress)</p>
+
+<p>The goal of this is to do the following:</p>
+
+<ul>
+  <li>Make good use of the data feed provided by the City of Cambridge for the Broadway bike counter</li>
+  <li>Build off the existing visualizer provided: https://data.cambridgema.gov/d/q8v9-mcfg/visualization</li>
+  <li>Use predictive analytics to generate estimates of counts of cyclists in the next day, week, and year</li>
+  <li>Track the predictions and report how far off or close they were</li>
+</ul>
+
+<h2 id="infrastructure">Infrastructure</h2>
+
+<p>This is built with the following tools:</p>
+
+<ul>
+  <li><a href="https://www.rstudio.com/products/shiny/shiny-server/">Shiny Server</a></li>
+  <li>AWS EC2 instance (<a href="http://www.louisaslett.com/RStudio_AMI/">AMI from Louis Aslett</a>, with modifications)</li>
+  <li>GitHub pages (this site)</li>
+  <li>Setting DNS records correctly with my domain name provider</li>
+  <li>Lots of Stack Overflow to get nginx, proxy stuff, ssh keys, and permissions all set up right</li>
+</ul>
+
 
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->

@@ -26,7 +26,7 @@ The tool can be embedded in any website with the following code (with CSS stylin
 ```
 <div>
  <iframe 
-   src="http://54.163.27.74/shiny/cca_compare/">
+   src="shiny.flynnd.io/dan/cca_compare">
  </iframe>
 </div>
 ```
