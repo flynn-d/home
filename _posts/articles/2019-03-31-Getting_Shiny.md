@@ -21,8 +21,8 @@ I now have my Shiny server linked with this site, see here:
 
 And also have started a visualizer of bike count data here:
 
-### [shiny.flynnd.io/dan/cca_compare/](http://shiny.flynnd.io/dan/BikeCount/)
-(code [here](https://github.com/flynn-d/bikecount), obviously a work in progress)
+### [shiny.flynnd.io/dan/BikeCount/](http://shiny.flynnd.io/dan/BikeCount/)
+(code [here](https://github.com/flynn-d/bikecount), *obviously a work in progress*)
 
 The goal of this is to do the following:
 
