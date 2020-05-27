@@ -15,11 +15,11 @@ tags:
 categories: articles
 ---
 
-I now have my Shiny server linked with this site, see here:
+I now have been experimenting with running a Shiny server, currently offline.
 
 ### [shiny.flynnd.io/dan/cca_compare/](http://shiny.flynnd.io/dan/cca_compare/)
 
-And also have started a visualizer of bike count data here:
+And also have started a visualizer of bike count data, currently offline as well.
 
 ### [shiny.flynnd.io/dan/BikeCount/](http://shiny.flynnd.io/dan/BikeCount/)
 (code [here](https://github.com/flynn-d/bikecount), *obviously a work in progress*)
