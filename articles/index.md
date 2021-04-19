@@ -19,7 +19,7 @@ search_omit: true
 <a href="https://github.com/dflynn-volpe" class="btn">Volpe Center GitHub Account</a>
 </center>
 
-## Personal project 
+## Personal projects 
 
 <center>
 <a href="https://github.com/flynn-d" class="btn">Personal GitHub Account</a>
